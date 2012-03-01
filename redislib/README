@@ -1,0 +1,5 @@
+this requires 'hiredis'.
+
+https://github.com/antirez/hiredis
+
+I tested on CentOS only.
