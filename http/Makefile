@@ -1,7 +1,7 @@
 CC = gcc
 SRC = main.c
 OBJ = $(SRC:%.c=%.o)
-CFLAG = -g -2
+CFLAG = -g -O2
 
 .c.o:
 	$(CC) $(CFLAG) -c $<
