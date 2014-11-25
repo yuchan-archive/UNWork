@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// died at -5999
+// ex.) died at -5999(undecided)
+// I cannot tell you what is merginal value.
 
 int set_value(int idx, int value)
 {
